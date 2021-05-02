@@ -11,10 +11,10 @@ favicon: "https://github.com/x1ah.png?size=40"
 url: https://abchds.gitee.io
 
 # github profile url
-github: https://github.com/x1ah/nav
+github: 
 
 # footer message
-footer: © 2021-2021 @x1ah
+footer: © 2021-2021 @小霸王
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -35,7 +35,7 @@ webstack:
       
 
 # Google analytics
-google_analytics: G-EXE1PJ8CR2
+#google_analytics: G-EXE1PJ8CR2
 
 content:
   categories:
