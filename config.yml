@@ -32,7 +32,7 @@ webstack:
       - baidu
       - bilibili
       - zhihu
-      - sougou
+      
 
 # Google analytics
 google_analytics: G-EXE1PJ8CR2
