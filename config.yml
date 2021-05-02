@@ -138,9 +138,6 @@ content:
           url: https://sm.ms/
     - name: 休闲娱乐
       sites:
-        - name: 小霸王
-          description: 在线小霸王游戏机，支持联机
-          url: https://www.yikm.net/
         - name: 扫雷
           description: 网页版扫雷，开箱即用
           url: http://www.cctvjs.net/mine/
